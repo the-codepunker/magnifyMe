@@ -1,0 +1,34 @@
+{
+    "name": "magnifyMe",
+    "title": "jQuery magnifyMe",
+    "description": "jQuery plugin for creating a magnifier overlay on top of images",
+    "keywords": [
+        "magnify",
+        "zoom"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "The CodePunker",
+        "url": "http://www.codepunker.com/terminal/whois"
+    },
+    "maintainers": [
+        {
+            "name": "Daniel Gheorghe",
+            "email": "info@codepunker.com",
+            "url": "http://www.codepunker.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "GPLv2",
+            "url": "https://github.com/the-codepunker/magnifyMe/blob/master/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/the-codepunker/magnifyMe/issues",
+    "homepage": "http://www.codepunker.com/blog/magnify-me-jquery-image-magnifier-plugin",
+    "docs": "http://www.codepunker.com/blog/magnify-me-jquery-image-magnifier-plugin",
+    "download": "http://code.jquery.com/#magnifyMe",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
